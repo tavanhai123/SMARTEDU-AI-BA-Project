@@ -1,4 +1,5 @@
 # SMARTEDU – Tài liệu Phân tích Nghiệp vụ
+SMARTEDU là dự án phân tích nghiệp vụ nhằm xây dựng nền tảng quản lý giáo dục tích hợp trí tuệ nhân tạo. Hệ thống hỗ trợ giảng viên và nhà quản trị trong việc quản lý khóa học, theo dõi hiệu suất học tập và tối ưu quy trình giảng dạy dựa trên dữ liệu.
 
 ## Tóm tắt
 Tập hợp tài liệu phân tích nghiệp vụ cho SMARTEDU — yêu cầu người dùng và user stories phục vụ thiết kế và phát triển hệ thống.
